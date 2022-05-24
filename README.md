@@ -1,4 +1,20 @@
+#Alert
+All design rights reserved to graphic designer Sourany Phomhome, this is for study purposes only.
+
+To learn more about her work, follow the links
+* [Youtube](https://www.youtube.com/watch?v=nUQmCgFubeY&t)
+* [Twitter](https://mobile.twitter.com/SouranyPhomhome)
+* [Instagram](https://www.instagram.com/sou.design/)
+
+OBS: If the author feels bothered by this code posted, please let me know.
+
+## Link Figma
+* [Figma](https://www.figma.com/community/file/1091549030995326982)
+
+## 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br/>[Tailwindcss](https://tailwindcss.com/) was also used.
 
 ## Getting Started
 
