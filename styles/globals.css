@@ -1,16 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 html,
+
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  overflow-x: hidden;
+  background-size: cover;
+  background-repeat:no-repeat;
+  position: center;
+  background-image: url(/assets/ibc.svg);
+  background-color: #0F103F;
+  min-height: 100vh;
+  min-width: auto;
+  font-family: poppins,-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 a {
   color: inherit;
   text-decoration: none;
+  border:none;
+  outline: none;
 }
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.about{
+  background-position: center ;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.py-about {
+  padding-top: 21.9rem/* 384px */;
+  padding-bottom: 22.5rem/* 384px */;
+}
+.py-comment {
+  padding-top: 25.6rem/* 384px */;
+  padding-bottom: 22.5rem/* 384px */;
+  
+}
+
+.font-size-w {
+  font-size: 30px;
 }
